@@ -85,3 +85,5 @@
 
 ### 📌 Output
 
+![3tier-arch](https://github.com/user-attachments/assets/c1230580-60c2-45fe-ac90-d83e22b8c890)
+
