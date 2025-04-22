@@ -77,3 +77,5 @@ Custom VPC with subnets deployed in multiple availability zones for high availab
 
 ### 📌 Output
 
+![ASG with ALB](https://github.com/user-attachments/assets/9e2b1eb6-d21b-4da8-8e31-b2298fa352ed)
+
