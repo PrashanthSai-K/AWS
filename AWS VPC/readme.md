@@ -72,5 +72,4 @@
 
 ### 📌 Output
 
-
-
+![Screenshot 2025-04-22 160923](https://github.com/user-attachments/assets/42341eaa-ce61-4c72-9188-0a8fc66be3b2)
